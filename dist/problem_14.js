@@ -1,5 +1,5 @@
 "use strict";
-// Problem 5 — Esports Tournament Player Stats
+// Problem 14 — Esports Tournament Player Stats
 Object.defineProperty(exports, "__esModule", { value: true });
 function getPlayerStats(player) {
     if (player.scores.length === 0) {

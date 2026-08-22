@@ -1,4 +1,4 @@
-// Problem 5 — Esports Tournament Player Stats
+// Problem 14 — Esports Tournament Player Stats
 
 interface Player{
     name: string;
